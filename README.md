@@ -17,3 +17,5 @@ VEGEFOOD is a website which was built by using the MVC framework, which is Larav
 
 •	Newsletter Subscription (to-be-added soon)
 
+P/S: You may have to register a new account to access 127.1.1.1:8000/home
+
